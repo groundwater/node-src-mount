@@ -1,0 +1,8 @@
+{
+  "name": "src-mount",
+  "version": "0.1.0",
+  "description": "Wrappers for mount",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "main": "build/Release/binding.node"
+}
